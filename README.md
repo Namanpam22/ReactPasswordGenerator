@@ -13,3 +13,7 @@ Real-time Password Generation: The password updates automatically as you change 
 React: Frontend library for building user interfaces.
 JavaScript: Programming language used for app logic.
 Tailwind: Used for Styling the application
+
+The application is live on 
+https://reactpasswordgeneratorit.netlify.app/
+please visit and try it now
